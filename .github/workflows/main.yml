@@ -22,4 +22,4 @@ jobs:
           branch: output
           force: true
           directory: dist
-          github_token: ${{ secrets.ABJZWMCNWTKVIGHKKZCZNY3GJZWGI }}
+          github_token: ${{ABJZWMCNWTKVIGHKKZCZNY3GJZWGI}}
