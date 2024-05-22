@@ -11,9 +11,9 @@
 ![Snake animation](https://github.com/sechafer/sechafer/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Conéctate conmigo:
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/tu-perfil)
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
-- Blog: [tu-blog.com](https://tu-blog.com)
+- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/sechafer)
+- Twitter: [@tuusuario](https://twitter.com/sechafer)
+
 
 ## 🛠️ Lenguajes y Herramientas:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,6 +27,7 @@
 - React
 - Node.js
 - Docker
+- AWS
 
 ## 
 ## 📈 Estadísticas de GitHub:
