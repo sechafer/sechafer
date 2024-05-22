@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sechafer/sechafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Hola, soy [Sechafer](https://github.com/sechafer)
+# 👋 Hola, soy [Samuel Chacon](https://github.com/sechafer)
 
 ![GitHub followers](https://img.shields.io/github/followers/sechafer?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sechafer?style=social)
@@ -12,8 +7,7 @@
 
 ## 📫 Conéctate conmigo:
 - LinkedIn: [Tu Perfil](https://www.linkedin.com/in/sechafer)
-- Twitter: [@tuusuario](https://twitter.com/sechafer)
-
+- X: [@tuusuario](https://x.com/secahfer)
 
 ## 🛠️ Lenguajes y Herramientas:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +23,7 @@
 - Docker
 - AWS
 
-## 
+
 ## 📈 Estadísticas de GitHub:
 ![Estadísticas de GitHub de Sechafer](https://github-readme-stats.vercel.app/api?username=sechafer&show_icons=true&theme=radical)
 
@@ -37,10 +31,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sechafer&theme=juicyfresh)
 
 
+
 ## 💬 Contáctame:
 Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en enviarme un mensaje.
 
 ---
-
-*Este README fue generado con amor y dedicación para mostrar mis habilidades y proyectos. ¡Gracias por visitar mi perfil!*
--->
