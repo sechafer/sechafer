@@ -3,7 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/sechafer?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sechafer?style=social)
 
-![Snake animation](https://github.com/sechafer/sechafer/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 📫 Conéctate conmigo:
 - LinkedIn: [www.linkedin.com/in/sechafer)](https://www.linkedin.com/in/sechafer)
