@@ -10,7 +10,7 @@
 </picture>
 
 ## 📫 Conéctate conmigo:
-- LinkedIn: [www.linkedin.com/in/sechafer)](https://www.linkedin.com/in/sechafer)
+- LinkedIn: [www.linkedin.com/in/sechafer](https://www.linkedin.com/in/sechafer)
 - X: [@sechafer](https://x.com/sechafer)
 
 ## 🛠️ Lenguajes y Herramientas:
