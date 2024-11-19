@@ -1,42 +1,73 @@
-# 👋 Hola, soy [Samuel Chacon](https://github.com/sechafer)
+# Samuel Eli Chacón Fernandez 👨‍💻
 
-![GitHub followers](https://img.shields.io/github/followers/sechafer?style=social)
-![GitHub stars](https://img.shields.io/github/stars/sechafer?style=social)
+Hello, GitHub! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+I'm an Electrical Engineer and Software Developer with experience in CRM, BI, and web development. Currently pursuing a Bachelor's degree in Software Development at BYU-Idaho while working as a CRM/BI Consultant at SKY Brasil.
 
-## 📫 Conéctate conmigo:
-- LinkedIn: [www.linkedin.com/in/sechafer](https://www.linkedin.com/in/sechafer)
-- X: [@sechafer](https://x.com/sechafer)
+## 🎓 Education
+- **BS in Software Development** - Brigham Young University Idaho *(In progress)*
+- **Electrical Engineering** - Universidad Central de Venezuela **
+- **Certificate of Web and Computer Programming** - BYU-Idaho
+- **BYU-Pathway Worldwide Certificate**
 
-## 🛠️ Lenguajes y Herramientas:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 💼 Professional Experience
 
-## 🌱 Actualmente estoy aprendiendo:
-- React
-- Node.js
-- Docker
-- AWS
+- **CRM/BI Consultant** @ SKY Brasil *(2024-present)*
+  - Design and development of customer-targeted email campaigns
+  - Management of Push and In-App requests for SKY+ app
+  - Experience with Salesforce Marketing Cloud and Amazon S3
 
+- **PL Developer Analyst** @ Cognizant *(2022-2024)*
+  - Implementation of web products and GA4 analytics optimization
+  - 80% increase in analysis data for client's website
+  - Website performance improvement using HTML, CSS, and JavaScript
+  - Integration with various CMS and E-commerce platforms
 
-## 📈 Estadísticas de GitHub:
-![Estadísticas de GitHub de Sechafer](https://github-readme-stats.vercel.app/api?username=sechafer&show_icons=true&theme=radical)
+## 🛠 Technologies & Tools
 
-## 🏆 Logros:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sechafer&theme=juicyfresh)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
+## 💻 Core Skills
+- Web Development
+- CRM & BI Solutions
+- Analytics Implementation
+- Front-end Development
+- Technical Support
+- Problem Solving
+- Team Collaboration
 
+## 🏆 Achievements & Recognition
+- 100% Hall Foundation Scholarship for Brigham Young University 2024
+- INDOTEL - LACNIC 31 Fellowship Program 2019
+- Lacigf11 ISOC Fellowship Program 2018
 
-## 💬 Contáctame:
-Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en enviarme un mensaje.
+## 🌎 Languages
+- Spanish (Native)
+- Portuguese (Advanced)
+- English (Intermediate)
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sechafer/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sechafer)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sechafer&show_icons=true&theme=radical)
+
+## 🌱 Currently
+- Learning advanced software development concepts at BYU-Idaho
+- Working on CRM and BI solutions at SKY Brasil
+- Exploring new technologies and best practices in web development
 
 ---
+💡 Always seeking new challenges and opportunities to learn and grow in the software development world.
