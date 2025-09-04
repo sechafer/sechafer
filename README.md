@@ -12,7 +12,7 @@ I'm an Electrical Engineer and Software Developer with experience in CRM, BI, an
 
 ## 💼 Professional Experience
 
-- **CRM/BI Consultant** @ SKY Brasil *(2024-present)*
+- **CRM/BI Consultant** @ SKY Brasil *(2024-2025)*
   - Design and development of customer-targeted email campaigns
   - Management of Push and In-App requests for SKY+ app
   - Experience with Salesforce Marketing Cloud and Amazon S3
