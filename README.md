@@ -5,7 +5,7 @@ Hello, GitHub! 👋
 I'm an Electrical Engineer and Software Developer with experience in CRM, BI, and web development. Currently pursuing a Bachelor's degree in Software Development at BYU-Idaho while working as a CRM/BI Consultant at SKY Brasil.
 
 ## 🎓 Education
-- **BS in Software Development** - Brigham Young University Idaho *(In progress)*
+- **BS in Software Development** - Brigham Young University Idaho *
 - **Electrical Engineering** - Universidad Central de Venezuela **
 - **Certificate of Web and Computer Programming** - BYU-Idaho
 - **BYU-Pathway Worldwide Certificate**
